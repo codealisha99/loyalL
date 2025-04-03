@@ -1,0 +1,32 @@
+2025-04-04 04:36:08,474 - ====== WebDriver manager ======
+2025-04-04 04:36:08,622 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:36:08,768 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:36:08,803 - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 04:38:45,785 - Bot stopped by user.
+2025-04-04 04:38:45,791 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1060b6a50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bda5a28795455de747a0d3b50d3227a7
+2025-04-04 04:38:45,792 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1060d9f90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bda5a28795455de747a0d3b50d3227a7
+2025-04-04 04:38:45,794 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1060d9a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bda5a28795455de747a0d3b50d3227a7
+2025-04-04 04:38:51,861 - ====== WebDriver manager ======
+2025-04-04 04:38:52,009 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:38:52,056 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:38:52,083 - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 04:40:06,435 - Bot stopped by user.
+2025-04-04 04:40:06,437 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/8dd7b3debe91c11af36e8062eb85fa10
+2025-04-04 04:40:06,439 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1043ddf90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8dd7b3debe91c11af36e8062eb85fa10
+2025-04-04 04:40:06,440 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1043dda90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8dd7b3debe91c11af36e8062eb85fa10
+2025-04-04 04:41:23,668 - ====== WebDriver manager ======
+2025-04-04 04:41:23,822 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:41:23,892 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:41:23,923 - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 04:43:20,123 - Bot stopped by user.
+2025-04-04 04:43:20,126 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e82a50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6043fbbd38a155ca65cb8b7b41ae8eb9
+2025-04-04 04:43:20,127 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e7a0d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6043fbbd38a155ca65cb8b7b41ae8eb9
+2025-04-04 04:43:20,127 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101e79bd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6043fbbd38a155ca65cb8b7b41ae8eb9
+2025-04-04 04:43:41,842 - ====== WebDriver manager ======
+2025-04-04 04:43:41,991 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:43:42,038 - Get LATEST chromedriver version for google-chrome
+2025-04-04 04:43:42,069 - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 04:44:47,950 - Bot stopped by user.
+2025-04-04 04:44:47,955 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1045674d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/794d788bf56a4ce9884d126bad3210ed
+2025-04-04 04:44:47,955 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103806fd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/794d788bf56a4ce9884d126bad3210ed
+2025-04-04 04:44:47,956 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103806ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/794d788bf56a4ce9884d126bad3210ed

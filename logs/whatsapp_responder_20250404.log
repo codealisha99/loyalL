@@ -1,0 +1,376 @@
+2025-04-04 05:14:09,385 - INFO - Using Chrome data directory: /Users/alishakarma/Desktop/loyalL/chrome_data
+2025-04-04 05:14:09,385 - INFO - ====== WebDriver manager ======
+2025-04-04 05:14:09,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 05:14:09,802 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 05:14:09,839 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 05:14:11,174 - INFO - Successfully initialized Chrome using ChromeDriverManager
+2025-04-04 05:14:11,915 - INFO - Please scan the QR code with your phone if prompted.
+2025-04-04 05:14:11,916 - INFO - Waiting up to 90 seconds for WhatsApp Web to load...
+2025-04-04 05:14:15,277 - INFO - WhatsApp Web is ready!
+2025-04-04 05:14:15,278 - INFO - Starting auto-responder. Press Ctrl+C to exit.
+2025-04-04 05:14:15,278 - INFO - Loaded 0 previously responded chats
+2025-04-04 05:14:15,279 - INFO - Scanning for unread messages (scan #1)
+2025-04-04 05:14:15,346 - INFO - Found 5 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:14:15,442 - INFO - Found 5 unread chat(s)
+2025-04-04 05:14:15,447 - INFO - Unread message from: Unknown
+2025-04-04 05:14:15,447 - INFO - Preview: 
+2025-04-04 05:14:15,447 - INFO - No trigger words detected in message
+2025-04-04 05:14:15,452 - INFO - Unread message from: Adish
+2025-04-04 05:14:15,452 - INFO - Preview: 
+2025-04-04 05:14:15,452 - INFO - No trigger words detected in message
+2025-04-04 05:14:15,456 - INFO - Unread message from: Toootai Taaang
+2025-04-04 05:14:15,456 - INFO - Preview: hellokaun
+2025-04-04 05:14:15,456 - INFO - Trigger word detected: hellokaun
+2025-04-04 05:14:15,649 - INFO - Clicked on chat element directly
+2025-04-04 05:14:22,827 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:14:27,974 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:14:33,099 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:14:33,100 - WARNING - Chat might not have opened properly on attempt 1
+2025-04-04 05:14:35,162 - INFO - Clicked on chat element directly
+2025-04-04 05:14:42,345 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:14:47,505 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:14:52,675 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:14:52,675 - WARNING - Chat might not have opened properly on attempt 2
+2025-04-04 05:14:54,726 - INFO - Clicked on chat element directly
+2025-04-04 05:15:01,926 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:15:07,067 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:15:12,238 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:15:12,238 - WARNING - Chat might not have opened properly on attempt 3
+2025-04-04 05:15:12,238 - ERROR - Failed to open chat after multiple attempts
+2025-04-04 05:15:12,238 - ERROR - Failed to open chat with Toootai Taaang
+2025-04-04 05:15:12,248 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:15:12,248 - INFO - Preview: 
+2025-04-04 05:15:12,248 - INFO - No trigger words detected in message
+2025-04-04 05:15:12,256 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:15:12,256 - INFO - Preview: 
+2025-04-04 05:15:12,256 - INFO - No trigger words detected in message
+2025-04-04 05:15:17,262 - INFO - Scanning for unread messages (scan #2)
+2025-04-04 05:15:17,275 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:15:17,309 - INFO - Found 4 unread chat(s)
+2025-04-04 05:15:17,313 - INFO - Unread message from: Unknown
+2025-04-04 05:15:17,313 - INFO - Preview: 
+2025-04-04 05:15:17,313 - INFO - No trigger words detected in message
+2025-04-04 05:15:17,318 - INFO - Unread message from: Adish
+2025-04-04 05:15:17,318 - INFO - Preview: 
+2025-04-04 05:15:17,318 - INFO - No trigger words detected in message
+2025-04-04 05:15:17,321 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:15:17,321 - INFO - Preview: 
+2025-04-04 05:15:17,321 - INFO - No trigger words detected in message
+2025-04-04 05:15:17,324 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:15:17,324 - INFO - Preview: 
+2025-04-04 05:15:17,324 - INFO - No trigger words detected in message
+2025-04-04 05:15:22,326 - INFO - Scanning for unread messages (scan #3)
+2025-04-04 05:15:22,338 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:15:22,365 - INFO - Found 4 unread chat(s)
+2025-04-04 05:15:22,371 - INFO - Unread message from: Unknown
+2025-04-04 05:15:22,371 - INFO - Preview: 
+2025-04-04 05:15:22,371 - INFO - No trigger words detected in message
+2025-04-04 05:15:22,376 - INFO - Unread message from: Adish
+2025-04-04 05:15:22,376 - INFO - Preview: 
+2025-04-04 05:15:22,376 - INFO - No trigger words detected in message
+2025-04-04 05:15:22,380 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:15:22,380 - INFO - Preview: 
+2025-04-04 05:15:22,380 - INFO - No trigger words detected in message
+2025-04-04 05:15:22,386 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:15:22,387 - INFO - Preview: 
+2025-04-04 05:15:22,387 - INFO - No trigger words detected in message
+2025-04-04 05:15:27,392 - INFO - Scanning for unread messages (scan #4)
+2025-04-04 05:15:27,414 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:15:27,453 - INFO - Found 4 unread chat(s)
+2025-04-04 05:15:27,458 - INFO - Unread message from: Unknown
+2025-04-04 05:15:27,458 - INFO - Preview: 
+2025-04-04 05:15:27,459 - INFO - No trigger words detected in message
+2025-04-04 05:15:27,463 - INFO - Unread message from: Adish
+2025-04-04 05:15:27,464 - INFO - Preview: 
+2025-04-04 05:15:27,464 - INFO - No trigger words detected in message
+2025-04-04 05:15:27,468 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:15:27,468 - INFO - Preview: 
+2025-04-04 05:15:27,468 - INFO - No trigger words detected in message
+2025-04-04 05:15:27,472 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:15:27,472 - INFO - Preview: 
+2025-04-04 05:15:27,473 - INFO - No trigger words detected in message
+2025-04-04 05:15:32,478 - INFO - Scanning for unread messages (scan #5)
+2025-04-04 05:15:32,498 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:15:32,536 - INFO - Found 4 unread chat(s)
+2025-04-04 05:15:32,541 - INFO - Unread message from: Unknown
+2025-04-04 05:15:32,541 - INFO - Preview: 
+2025-04-04 05:15:32,541 - INFO - No trigger words detected in message
+2025-04-04 05:15:32,546 - INFO - Unread message from: Adish
+2025-04-04 05:15:32,546 - INFO - Preview: 
+2025-04-04 05:15:32,546 - INFO - No trigger words detected in message
+2025-04-04 05:15:32,551 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:15:32,551 - INFO - Preview: 
+2025-04-04 05:15:32,551 - INFO - No trigger words detected in message
+2025-04-04 05:15:32,555 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:15:32,555 - INFO - Preview: 
+2025-04-04 05:15:32,556 - INFO - No trigger words detected in message
+2025-04-04 05:15:37,561 - INFO - Scanning for unread messages (scan #6)
+2025-04-04 05:15:37,586 - INFO - Found 5 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:15:37,628 - INFO - Found 5 unread chat(s)
+2025-04-04 05:15:37,633 - INFO - Unread message from: Unknown
+2025-04-04 05:15:37,633 - INFO - Preview: 
+2025-04-04 05:15:37,633 - INFO - No trigger words detected in message
+2025-04-04 05:15:37,638 - INFO - Unread message from: Toootai Taaang
+2025-04-04 05:15:37,638 - INFO - Preview: hellokaun
+2025-04-04 05:15:37,638 - INFO - Trigger word detected: hellokaun
+2025-04-04 05:15:37,782 - INFO - Clicked on chat element directly
+2025-04-04 05:15:44,892 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:15:50,063 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:15:55,236 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:15:55,237 - WARNING - Chat might not have opened properly on attempt 1
+2025-04-04 05:15:57,296 - INFO - Clicked on chat element directly
+2025-04-04 05:16:04,475 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:16:09,651 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:16:14,830 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:16:14,830 - WARNING - Chat might not have opened properly on attempt 2
+2025-04-04 05:16:16,883 - INFO - Clicked on chat element directly
+2025-04-04 05:16:24,060 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:16:29,234 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:16:34,400 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:16:34,401 - WARNING - Chat might not have opened properly on attempt 3
+2025-04-04 05:16:34,401 - ERROR - Failed to open chat after multiple attempts
+2025-04-04 05:16:34,401 - ERROR - Failed to open chat with Toootai Taaang
+2025-04-04 05:16:34,413 - INFO - Unread message from: Adish
+2025-04-04 05:16:34,413 - INFO - Preview: 
+2025-04-04 05:16:34,413 - INFO - No trigger words detected in message
+2025-04-04 05:16:34,422 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:34,423 - INFO - Preview: 
+2025-04-04 05:16:34,423 - INFO - No trigger words detected in message
+2025-04-04 05:16:34,433 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:34,433 - INFO - Preview: 
+2025-04-04 05:16:34,434 - INFO - No trigger words detected in message
+2025-04-04 05:16:39,439 - INFO - Scanning for unread messages (scan #7)
+2025-04-04 05:16:39,470 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:16:39,549 - INFO - Found 4 unread chat(s)
+2025-04-04 05:16:39,553 - INFO - Unread message from: Unknown
+2025-04-04 05:16:39,553 - INFO - Preview: 
+2025-04-04 05:16:39,553 - INFO - No trigger words detected in message
+2025-04-04 05:16:39,560 - INFO - Unread message from: Adish
+2025-04-04 05:16:39,560 - INFO - Preview: 
+2025-04-04 05:16:39,560 - INFO - No trigger words detected in message
+2025-04-04 05:16:39,564 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:39,565 - INFO - Preview: 
+2025-04-04 05:16:39,565 - INFO - No trigger words detected in message
+2025-04-04 05:16:39,570 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:39,570 - INFO - Preview: 
+2025-04-04 05:16:39,570 - INFO - No trigger words detected in message
+2025-04-04 05:16:44,575 - INFO - Scanning for unread messages (scan #8)
+2025-04-04 05:16:44,598 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:16:44,645 - INFO - Found 4 unread chat(s)
+2025-04-04 05:16:44,650 - INFO - Unread message from: Unknown
+2025-04-04 05:16:44,651 - INFO - Preview: 
+2025-04-04 05:16:44,651 - INFO - No trigger words detected in message
+2025-04-04 05:16:44,656 - INFO - Unread message from: Adish
+2025-04-04 05:16:44,656 - INFO - Preview: 
+2025-04-04 05:16:44,656 - INFO - No trigger words detected in message
+2025-04-04 05:16:44,661 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:44,661 - INFO - Preview: 
+2025-04-04 05:16:44,661 - INFO - No trigger words detected in message
+2025-04-04 05:16:44,666 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:44,666 - INFO - Preview: 
+2025-04-04 05:16:44,666 - INFO - No trigger words detected in message
+2025-04-04 05:16:49,671 - INFO - Scanning for unread messages (scan #9)
+2025-04-04 05:16:49,682 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:16:49,704 - INFO - Found 4 unread chat(s)
+2025-04-04 05:16:49,707 - INFO - Unread message from: Unknown
+2025-04-04 05:16:49,708 - INFO - Preview: 
+2025-04-04 05:16:49,708 - INFO - No trigger words detected in message
+2025-04-04 05:16:49,711 - INFO - Unread message from: Adish
+2025-04-04 05:16:49,711 - INFO - Preview: 
+2025-04-04 05:16:49,711 - INFO - No trigger words detected in message
+2025-04-04 05:16:49,714 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:49,714 - INFO - Preview: 
+2025-04-04 05:16:49,714 - INFO - No trigger words detected in message
+2025-04-04 05:16:49,717 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:49,717 - INFO - Preview: 
+2025-04-04 05:16:49,717 - INFO - No trigger words detected in message
+2025-04-04 05:16:54,723 - INFO - Scanning for unread messages (scan #10)
+2025-04-04 05:16:54,790 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:16:54,820 - INFO - Found 4 unread chat(s)
+2025-04-04 05:16:54,824 - INFO - Unread message from: Unknown
+2025-04-04 05:16:54,824 - INFO - Preview: 
+2025-04-04 05:16:54,824 - INFO - No trigger words detected in message
+2025-04-04 05:16:54,829 - INFO - Unread message from: Adish
+2025-04-04 05:16:54,829 - INFO - Preview: 
+2025-04-04 05:16:54,829 - INFO - No trigger words detected in message
+2025-04-04 05:16:54,832 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:54,833 - INFO - Preview: 
+2025-04-04 05:16:54,833 - INFO - No trigger words detected in message
+2025-04-04 05:16:54,837 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:54,837 - INFO - Preview: 
+2025-04-04 05:16:54,837 - INFO - No trigger words detected in message
+2025-04-04 05:16:59,842 - INFO - Scanning for unread messages (scan #11)
+2025-04-04 05:16:59,861 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:16:59,899 - INFO - Found 4 unread chat(s)
+2025-04-04 05:16:59,904 - INFO - Unread message from: Unknown
+2025-04-04 05:16:59,904 - INFO - Preview: 
+2025-04-04 05:16:59,904 - INFO - No trigger words detected in message
+2025-04-04 05:16:59,909 - INFO - Unread message from: Adish
+2025-04-04 05:16:59,909 - INFO - Preview: 
+2025-04-04 05:16:59,909 - INFO - No trigger words detected in message
+2025-04-04 05:16:59,914 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:16:59,914 - INFO - Preview: 
+2025-04-04 05:16:59,914 - INFO - No trigger words detected in message
+2025-04-04 05:16:59,918 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:16:59,919 - INFO - Preview: 
+2025-04-04 05:16:59,919 - INFO - No trigger words detected in message
+2025-04-04 05:17:04,924 - INFO - Scanning for unread messages (scan #12)
+2025-04-04 05:17:04,939 - INFO - Found 5 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:17:04,967 - INFO - Found 5 unread chat(s)
+2025-04-04 05:17:04,971 - INFO - Unread message from: Unknown
+2025-04-04 05:17:04,971 - INFO - Preview: 
+2025-04-04 05:17:04,971 - INFO - No trigger words detected in message
+2025-04-04 05:17:04,975 - INFO - Unread message from: Toootai Taaang
+2025-04-04 05:17:04,975 - INFO - Preview: Hellokaun
+2025-04-04 05:17:04,976 - INFO - Trigger word detected: hellokaun
+2025-04-04 05:17:05,005 - INFO - Clicked on chat element directly
+2025-04-04 05:17:12,196 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:17:17,366 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:17:22,539 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:17:22,540 - WARNING - Chat might not have opened properly on attempt 1
+2025-04-04 05:17:24,592 - INFO - Clicked on chat element directly
+2025-04-04 05:17:31,728 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:17:36,870 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:17:41,995 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:17:41,996 - WARNING - Chat might not have opened properly on attempt 2
+2025-04-04 05:17:44,145 - INFO - Clicked on chat element directly
+2025-04-04 05:17:51,326 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:17:56,492 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:18:01,580 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:18:01,581 - WARNING - Chat might not have opened properly on attempt 3
+2025-04-04 05:18:01,581 - ERROR - Failed to open chat after multiple attempts
+2025-04-04 05:18:01,581 - ERROR - Failed to open chat with Toootai Taaang
+2025-04-04 05:18:01,585 - INFO - Unread message from: Adish
+2025-04-04 05:18:01,585 - INFO - Preview: 
+2025-04-04 05:18:01,585 - INFO - No trigger words detected in message
+2025-04-04 05:18:01,589 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:01,589 - INFO - Preview: 
+2025-04-04 05:18:01,589 - INFO - No trigger words detected in message
+2025-04-04 05:18:01,594 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:01,594 - INFO - Preview: 
+2025-04-04 05:18:01,594 - INFO - No trigger words detected in message
+2025-04-04 05:18:06,599 - INFO - Scanning for unread messages (scan #13)
+2025-04-04 05:18:06,620 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:06,660 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:06,667 - INFO - Unread message from: Unknown
+2025-04-04 05:18:06,667 - INFO - Preview: 
+2025-04-04 05:18:06,667 - INFO - No trigger words detected in message
+2025-04-04 05:18:06,673 - INFO - Unread message from: Adish
+2025-04-04 05:18:06,673 - INFO - Preview: 
+2025-04-04 05:18:06,673 - INFO - No trigger words detected in message
+2025-04-04 05:18:06,679 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:06,679 - INFO - Preview: 
+2025-04-04 05:18:06,679 - INFO - No trigger words detected in message
+2025-04-04 05:18:06,683 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:06,683 - INFO - Preview: 
+2025-04-04 05:18:06,683 - INFO - No trigger words detected in message
+2025-04-04 05:18:11,688 - INFO - Scanning for unread messages (scan #14)
+2025-04-04 05:18:11,695 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:11,720 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:11,723 - INFO - Unread message from: Unknown
+2025-04-04 05:18:11,723 - INFO - Preview: 
+2025-04-04 05:18:11,723 - INFO - No trigger words detected in message
+2025-04-04 05:18:11,728 - INFO - Unread message from: Adish
+2025-04-04 05:18:11,728 - INFO - Preview: 
+2025-04-04 05:18:11,728 - INFO - No trigger words detected in message
+2025-04-04 05:18:11,731 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:11,731 - INFO - Preview: 
+2025-04-04 05:18:11,731 - INFO - No trigger words detected in message
+2025-04-04 05:18:11,735 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:11,735 - INFO - Preview: 
+2025-04-04 05:18:11,735 - INFO - No trigger words detected in message
+2025-04-04 05:18:16,740 - INFO - Scanning for unread messages (scan #15)
+2025-04-04 05:18:16,759 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:16,799 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:16,804 - INFO - Unread message from: Unknown
+2025-04-04 05:18:16,804 - INFO - Preview: 
+2025-04-04 05:18:16,804 - INFO - No trigger words detected in message
+2025-04-04 05:18:16,808 - INFO - Unread message from: Adish
+2025-04-04 05:18:16,808 - INFO - Preview: 
+2025-04-04 05:18:16,808 - INFO - No trigger words detected in message
+2025-04-04 05:18:16,813 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:16,813 - INFO - Preview: 
+2025-04-04 05:18:16,813 - INFO - No trigger words detected in message
+2025-04-04 05:18:16,818 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:16,818 - INFO - Preview: 
+2025-04-04 05:18:16,818 - INFO - No trigger words detected in message
+2025-04-04 05:18:21,823 - INFO - Scanning for unread messages (scan #16)
+2025-04-04 05:18:21,845 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:21,886 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:21,892 - INFO - Unread message from: Unknown
+2025-04-04 05:18:21,892 - INFO - Preview: 
+2025-04-04 05:18:21,892 - INFO - No trigger words detected in message
+2025-04-04 05:18:21,897 - INFO - Unread message from: Adish
+2025-04-04 05:18:21,897 - INFO - Preview: 
+2025-04-04 05:18:21,897 - INFO - No trigger words detected in message
+2025-04-04 05:18:21,902 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:21,902 - INFO - Preview: 
+2025-04-04 05:18:21,902 - INFO - No trigger words detected in message
+2025-04-04 05:18:21,906 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:21,906 - INFO - Preview: 
+2025-04-04 05:18:21,907 - INFO - No trigger words detected in message
+2025-04-04 05:18:26,912 - INFO - Scanning for unread messages (scan #17)
+2025-04-04 05:18:26,934 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:26,974 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:26,980 - INFO - Unread message from: Unknown
+2025-04-04 05:18:26,980 - INFO - Preview: 
+2025-04-04 05:18:26,980 - INFO - No trigger words detected in message
+2025-04-04 05:18:26,985 - INFO - Unread message from: Adish
+2025-04-04 05:18:26,985 - INFO - Preview: 
+2025-04-04 05:18:26,985 - INFO - No trigger words detected in message
+2025-04-04 05:18:26,990 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:26,990 - INFO - Preview: 
+2025-04-04 05:18:26,990 - INFO - No trigger words detected in message
+2025-04-04 05:18:26,995 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:26,995 - INFO - Preview: 
+2025-04-04 05:18:26,995 - INFO - No trigger words detected in message
+2025-04-04 05:18:32,001 - INFO - Scanning for unread messages (scan #18)
+2025-04-04 05:18:32,026 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:32,065 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:32,070 - INFO - Unread message from: Unknown
+2025-04-04 05:18:32,070 - INFO - Preview: 
+2025-04-04 05:18:32,070 - INFO - No trigger words detected in message
+2025-04-04 05:18:32,075 - INFO - Unread message from: Adish
+2025-04-04 05:18:32,075 - INFO - Preview: 
+2025-04-04 05:18:32,075 - INFO - No trigger words detected in message
+2025-04-04 05:18:32,080 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:32,080 - INFO - Preview: 
+2025-04-04 05:18:32,080 - INFO - No trigger words detected in message
+2025-04-04 05:18:32,084 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:32,085 - INFO - Preview: 
+2025-04-04 05:18:32,085 - INFO - No trigger words detected in message
+2025-04-04 05:18:37,090 - INFO - Scanning for unread messages (scan #19)
+2025-04-04 05:18:37,103 - INFO - Found 4 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:37,139 - INFO - Found 4 unread chat(s)
+2025-04-04 05:18:37,146 - INFO - Unread message from: Unknown
+2025-04-04 05:18:37,146 - INFO - Preview: 
+2025-04-04 05:18:37,146 - INFO - No trigger words detected in message
+2025-04-04 05:18:37,152 - INFO - Unread message from: Adish
+2025-04-04 05:18:37,152 - INFO - Preview: 
+2025-04-04 05:18:37,152 - INFO - No trigger words detected in message
+2025-04-04 05:18:37,157 - INFO - Unread message from: Crowdfeuz
+2025-04-04 05:18:37,157 - INFO - Preview: 
+2025-04-04 05:18:37,157 - INFO - No trigger words detected in message
+2025-04-04 05:18:37,162 - INFO - Unread message from: Study Buddy  III Year - ECE/EEE
+2025-04-04 05:18:37,162 - INFO - Preview: 
+2025-04-04 05:18:37,162 - INFO - No trigger words detected in message
+2025-04-04 05:18:42,167 - INFO - Scanning for unread messages (scan #20)
+2025-04-04 05:18:42,190 - INFO - Found 5 unread chats with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 05:18:42,236 - INFO - Found 5 unread chat(s)
+2025-04-04 05:18:42,241 - INFO - Unread message from: Unknown
+2025-04-04 05:18:42,241 - INFO - Preview: 
+2025-04-04 05:18:42,241 - INFO - No trigger words detected in message
+2025-04-04 05:18:42,247 - INFO - Unread message from: Toootai Taaang
+2025-04-04 05:18:42,247 - INFO - Preview: Hellokaun
+2025-04-04 05:18:42,247 - INFO - Trigger word detected: hellokaun
+2025-04-04 05:18:42,366 - INFO - Clicked on chat element directly
+2025-04-04 05:18:49,519 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:18:54,690 - WARNING - Timeout waiting for element: //header//div[contains(@class, "chat-header")]
+2025-04-04 05:18:59,866 - WARNING - Timeout waiting for element: //div[@data-testid="conversation-header-info"]
+2025-04-04 05:18:59,866 - WARNING - Chat might not have opened properly on attempt 1
+2025-04-04 05:19:01,899 - INFO - Clicked on chat element directly
+2025-04-04 05:19:09,029 - WARNING - Timeout waiting for element: //header//div[@data-testid="conversation-header"]
+2025-04-04 05:19:11,202 - INFO - Program terminated by user.
+2025-04-04 05:19:11,204 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/d84a62e5f78000857540d2dad4e8731d
+2025-04-04 05:19:11,207 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042bafd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d84a62e5f78000857540d2dad4e8731d
+2025-04-04 05:19:11,207 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042bb890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d84a62e5f78000857540d2dad4e8731d
