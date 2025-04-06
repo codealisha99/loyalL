@@ -1,0 +1,302 @@
+2025-04-04 15:20:55,376 - INFO - ====== WebDriver manager ======
+2025-04-04 15:20:55,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:20:55,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:20:55,997 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 15:20:58,423 - INFO - Opened WhatsApp Web. Waiting for login...
+2025-04-04 15:21:58,694 - WARNING - Element not found: //div[@data-testid="chat-list"]
+2025-04-04 15:21:58,694 - INFO - WhatsApp Web loaded successfully
+2025-04-04 15:21:58,710 - INFO - Found 6 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:22:00,796 - WARNING - Could not find messages in the open chat
+2025-04-04 15:22:11,062 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:22:13,385 - INFO - Last message: you can come and check by yourself 
+2025-04-04 15:22:23,693 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:22:25,845 - INFO - Last message: hey alisha, taking a 1-hour nap? 
+nykaa now delivers your beauty essentials starting in 1 hour too!
+shop face masks, lotions, grooming tools & more for your sunday self-care routine 
+https://cutt.ly/wrp5jj9v
+2025-04-04 15:22:36,100 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:22:38,271 - INFO - Last message: date 5th april
+2025-04-04 15:22:48,570 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:22:50,692 - INFO - Last message: wahi agar jagah sahi mile toh i will stay
+2025-04-04 15:23:00,927 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:23:03,149 - INFO - Last message: isse to umeed ni thi legal log ka no milega 
+2025-04-04 15:23:13,504 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:23:18,544 - INFO - Found 2 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:23:20,613 - INFO - Last message: isse to umeed ni thi legal log ka no milega 
+2025-04-04 15:23:30,925 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:23:33,102 - INFO - Last message: hellokaun
+2025-04-04 15:23:33,103 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:23:43,442 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:23:43,532 - ERROR - Error sending message: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+0   chromedriver                        0x0000000104a176c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000104a0fc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000104561e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045e0c6c cxxbridge1$string$len + 612668
+4   chromedriver                        0x00000001045a3cfc cxxbridge1$string$len + 362956
+5   chromedriver                        0x00000001045a32d0 cxxbridge1$string$len + 360352
+6   chromedriver                        0x000000010459e818 cxxbridge1$string$len + 341224
+7   chromedriver                        0x00000001045ea5f8 cxxbridge1$string$len + 651976
+8   chromedriver                        0x000000010459d2fc cxxbridge1$string$len + 335820
+9   chromedriver                        0x00000001049dc6c4 cxxbridge1$str$ptr + 2549544
+10  chromedriver                        0x00000001049df988 cxxbridge1$str$ptr + 2562540
+11  chromedriver                        0x00000001049bc71c cxxbridge1$str$ptr + 2418560
+12  chromedriver                        0x00000001049e01e8 cxxbridge1$str$ptr + 2564684
+13  chromedriver                        0x00000001049ad750 cxxbridge1$str$ptr + 2357172
+14  chromedriver                        0x00000001049fff58 cxxbridge1$str$ptr + 2695100
+15  chromedriver                        0x0000000104a000e0 cxxbridge1$str$ptr + 2695492
+16  chromedriver                        0x0000000104a0f910 cxxbridge1$str$ptr + 2759028
+17  libsystem_pthread.dylib             0x000000018eb5ef94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000018eb59d34 thread_start + 8
+
+2025-04-04 15:23:43,532 - ERROR - Failed to send auto-reply
+2025-04-04 15:23:56,847 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:24:01,866 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:24:03,925 - INFO - Last message: hellokaun
+2025-04-04 15:24:03,926 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:24:14,104 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:24:14,450 - ERROR - Error sending message: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+0   chromedriver                        0x0000000104a176c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000104a0fc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000104561e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045e0c6c cxxbridge1$string$len + 612668
+4   chromedriver                        0x00000001045a3cfc cxxbridge1$string$len + 362956
+5   chromedriver                        0x00000001045a32d0 cxxbridge1$string$len + 360352
+6   chromedriver                        0x000000010459e818 cxxbridge1$string$len + 341224
+7   chromedriver                        0x00000001045ea5f8 cxxbridge1$string$len + 651976
+8   chromedriver                        0x000000010459d2fc cxxbridge1$string$len + 335820
+9   chromedriver                        0x00000001049dc6c4 cxxbridge1$str$ptr + 2549544
+10  chromedriver                        0x00000001049df988 cxxbridge1$str$ptr + 2562540
+11  chromedriver                        0x00000001049bc71c cxxbridge1$str$ptr + 2418560
+12  chromedriver                        0x00000001049e01e8 cxxbridge1$str$ptr + 2564684
+13  chromedriver                        0x00000001049ad750 cxxbridge1$str$ptr + 2357172
+14  chromedriver                        0x00000001049fff58 cxxbridge1$str$ptr + 2695100
+15  chromedriver                        0x0000000104a000e0 cxxbridge1$str$ptr + 2695492
+16  chromedriver                        0x0000000104a0f910 cxxbridge1$str$ptr + 2759028
+17  libsystem_pthread.dylib             0x000000018eb5ef94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000018eb59d34 thread_start + 8
+
+2025-04-04 15:24:14,450 - ERROR - Failed to send auto-reply
+2025-04-04 15:24:27,704 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:24:32,721 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:24:34,781 - INFO - Last message: hellokaun
+2025-04-04 15:24:34,781 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:24:44,965 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:24:45,028 - ERROR - Error sending message: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+0   chromedriver                        0x0000000104a176c8 cxxbridge1$str$ptr + 2791212
+1   chromedriver                        0x0000000104a0fc9c cxxbridge1$str$ptr + 2759936
+2   chromedriver                        0x0000000104561e30 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045e0c6c cxxbridge1$string$len + 612668
+4   chromedriver                        0x00000001045a3cfc cxxbridge1$string$len + 362956
+5   chromedriver                        0x00000001045a32d0 cxxbridge1$string$len + 360352
+6   chromedriver                        0x000000010459e818 cxxbridge1$string$len + 341224
+7   chromedriver                        0x00000001045ea5f8 cxxbridge1$string$len + 651976
+8   chromedriver                        0x000000010459d2fc cxxbridge1$string$len + 335820
+9   chromedriver                        0x00000001049dc6c4 cxxbridge1$str$ptr + 2549544
+10  chromedriver                        0x00000001049df988 cxxbridge1$str$ptr + 2562540
+11  chromedriver                        0x00000001049bc71c cxxbridge1$str$ptr + 2418560
+12  chromedriver                        0x00000001049e01e8 cxxbridge1$str$ptr + 2564684
+13  chromedriver                        0x00000001049ad750 cxxbridge1$str$ptr + 2357172
+14  chromedriver                        0x00000001049fff58 cxxbridge1$str$ptr + 2695100
+15  chromedriver                        0x0000000104a000e0 cxxbridge1$str$ptr + 2695492
+16  chromedriver                        0x0000000104a0f910 cxxbridge1$str$ptr + 2759028
+17  libsystem_pthread.dylib             0x000000018eb5ef94 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000018eb59d34 thread_start + 8
+
+2025-04-04 15:24:45,028 - ERROR - Failed to send auto-reply
+2025-04-04 15:24:49,263 - WARNING - Could not go back to chat list
+2025-04-04 15:24:51,400 - INFO - Bot stopped by user
+2025-04-04 15:24:51,408 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e434d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8a3429c90309706b6748d6aa533321c
+2025-04-04 15:24:51,410 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10517f110>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8a3429c90309706b6748d6aa533321c
+2025-04-04 15:24:51,411 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10517ec10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b8a3429c90309706b6748d6aa533321c
+2025-04-04 15:24:51,461 - INFO - WebDriver closed
+2025-04-04 15:32:58,954 - INFO - ====== WebDriver manager ======
+2025-04-04 15:32:59,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:32:59,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:32:59,178 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 15:33:01,203 - INFO - Opened WhatsApp Web. Waiting for login...
+2025-04-04 15:34:01,613 - WARNING - Element not found: //div[@data-testid="chat-list"]
+2025-04-04 15:34:01,615 - INFO - WhatsApp Web loaded successfully
+2025-04-04 15:34:01,628 - INFO - Found 2 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:34:03,706 - WARNING - Could not find messages in the open chat
+2025-04-04 15:34:14,001 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:34:16,299 - INFO - Last message: hellokaun
+2025-04-04 15:34:16,299 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:34:16,299 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:34:16,299 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:34:26,572 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:34:31,590 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:34:33,650 - INFO - Last message: hellokaun
+2025-04-04 15:34:33,650 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:34:33,650 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:34:33,650 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:34:43,940 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:34:48,966 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:34:51,123 - INFO - Last message: hellokaun
+2025-04-04 15:34:51,123 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:34:51,123 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:34:51,123 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:35:01,399 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:35:06,413 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:35:08,451 - INFO - Last message: hellokaun
+2025-04-04 15:35:08,453 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:35:08,453 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:35:08,453 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:35:18,649 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:35:23,661 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:35:25,708 - INFO - Last message: hellokaun
+2025-04-04 15:35:25,710 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:35:25,710 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:35:25,710 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:35:35,881 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:35:40,893 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:35:42,931 - INFO - Last message: hellokaun
+2025-04-04 15:35:42,933 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:35:42,933 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:35:42,933 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:35:53,093 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:35:58,109 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:36:00,171 - INFO - Last message: hellokaun
+2025-04-04 15:36:00,173 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:36:00,173 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:36:00,173 - ERROR - Error processing message: wait_for_element() got multiple values for argument 'timeout'
+2025-04-04 15:36:10,366 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:36:15,186 - INFO - Bot stopped by user
+2025-04-04 15:36:15,190 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101f8f620>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7f47cf65a3eb7c38429773768f93cd42
+2025-04-04 15:36:15,192 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1013f3890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7f47cf65a3eb7c38429773768f93cd42
+2025-04-04 15:36:15,193 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1013f2fd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7f47cf65a3eb7c38429773768f93cd42
+2025-04-04 15:36:15,247 - INFO - WebDriver closed
+2025-04-04 15:38:27,414 - INFO - ====== WebDriver manager ======
+2025-04-04 15:38:27,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:38:27,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:38:27,768 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 15:38:29,988 - INFO - Opened WhatsApp Web. Waiting for login...
+2025-04-04 15:39:30,433 - WARNING - Element not found: //div[@data-testid="chat-list"]
+2025-04-04 15:39:30,434 - INFO - WhatsApp Web loaded successfully
+2025-04-04 15:39:30,445 - INFO - Found 2 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:39:32,501 - WARNING - Could not find messages in the open chat
+2025-04-04 15:39:42,725 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:39:44,898 - INFO - Last message: hellokaun
+2025-04-04 15:39:44,898 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:39:44,898 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:39:44,898 - ERROR - Error processing message: wait_for_element() got an unexpected keyword argument 'by'
+2025-04-04 15:39:55,162 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:40:00,178 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:40:02,238 - INFO - Last message: hellokaun
+2025-04-04 15:40:02,240 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:40:02,240 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:40:02,240 - ERROR - Error processing message: wait_for_element() got an unexpected keyword argument 'by'
+2025-04-04 15:40:12,465 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:40:17,480 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:40:19,518 - INFO - Last message: hellokaun
+2025-04-04 15:40:19,518 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:40:19,518 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:40:19,518 - ERROR - Error processing message: wait_for_element() got an unexpected keyword argument 'by'
+2025-04-04 15:40:29,790 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:40:34,818 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:40:36,893 - INFO - Last message: hellokaun
+2025-04-04 15:40:36,893 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:40:36,893 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:40:36,893 - ERROR - Error processing message: wait_for_element() got an unexpected keyword argument 'by'
+2025-04-04 15:40:46,659 - WARNING - Could not go back to chat list
+2025-04-04 15:40:49,514 - INFO - Bot stopped by user
+2025-04-04 15:40:49,520 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10273b620>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a4bf9a35e6e1151dd15e6755020142a5
+2025-04-04 15:40:49,522 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101a7f890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a4bf9a35e6e1151dd15e6755020142a5
+2025-04-04 15:40:49,522 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101a7efd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a4bf9a35e6e1151dd15e6755020142a5
+2025-04-04 15:40:49,572 - INFO - WebDriver closed
+2025-04-04 15:49:09,594 - INFO - ====== WebDriver manager ======
+2025-04-04 15:49:09,732 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:49:09,785 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:49:09,817 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 15:49:11,796 - INFO - Opened WhatsApp Web. Waiting for login...
+2025-04-04 15:50:11,927 - WARNING - Element not found: //div[@data-testid="chat-list"]
+2025-04-04 15:50:11,929 - INFO - WhatsApp Web loaded successfully
+2025-04-04 15:50:11,959 - INFO - Found 2 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:50:14,061 - WARNING - Could not find messages in the open chat
+2025-04-04 15:50:24,375 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:50:26,633 - INFO - Last message: hellokaun
+2025-04-04 15:50:26,634 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:50:26,634 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:50:31,794 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:50:31,794 - WARNING - Could not find input with selector: //div[@title="Type a message"]
+2025-04-04 15:50:31,794 - INFO - Trying selector: //div[@data-tab="10"]
+2025-04-04 15:50:31,828 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:50:32,985 - ERROR - Failed to send message with selector //div[@data-tab="10"]: name 'Keys' is not defined
+2025-04-04 15:50:32,985 - INFO - Trying selector: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:50:38,320 - WARNING - Element not found: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:50:38,321 - WARNING - Could not find input with selector: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:50:38,321 - INFO - Trying selector: //div[@contenteditable="true"]
+2025-04-04 15:50:38,338 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:50:40,261 - ERROR - Failed to send message with selector //div[@contenteditable="true"]: name 'Keys' is not defined
+2025-04-04 15:50:40,261 - ERROR - All selectors failed. Could not send the message.
+2025-04-04 15:50:40,261 - ERROR - Failed to send auto-reply
+2025-04-04 15:50:53,539 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:50:58,563 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:51:00,643 - INFO - Last message: hellokaun
+2025-04-04 15:51:00,643 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:51:00,643 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:51:05,761 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:51:05,762 - WARNING - Could not find input with selector: //div[@title="Type a message"]
+2025-04-04 15:51:05,762 - INFO - Trying selector: //div[@data-tab="10"]
+2025-04-04 15:51:05,791 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:51:06,750 - ERROR - Failed to send message with selector //div[@data-tab="10"]: name 'Keys' is not defined
+2025-04-04 15:51:06,750 - INFO - Trying selector: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:51:11,934 - WARNING - Element not found: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:51:11,936 - WARNING - Could not find input with selector: //div[contains(@class, "selectable-text")][@contenteditable="true"]
+2025-04-04 15:51:11,936 - INFO - Trying selector: //div[@contenteditable="true"]
+2025-04-04 15:51:11,962 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:51:13,098 - ERROR - Failed to send message with selector //div[@contenteditable="true"]: name 'Keys' is not defined
+2025-04-04 15:51:13,098 - ERROR - All selectors failed. Could not send the message.
+2025-04-04 15:51:13,098 - ERROR - Failed to send auto-reply
+2025-04-04 15:51:26,435 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:51:31,450 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:51:33,574 - INFO - Last message: hellokaun
+2025-04-04 15:51:33,574 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:51:33,574 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:51:33,980 - WARNING - Could not go back to chat list
+2025-04-04 15:51:33,980 - INFO - Bot stopped by user
+2025-04-04 15:51:33,983 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f72fd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/88a86d90bdca4c7198fa87c7a4eee6d1
+2025-04-04 15:51:33,984 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f72ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/88a86d90bdca4c7198fa87c7a4eee6d1
+2025-04-04 15:51:33,984 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103bee650>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/88a86d90bdca4c7198fa87c7a4eee6d1
+2025-04-04 15:51:34,032 - INFO - WebDriver closed
+2025-04-04 15:52:40,640 - INFO - ====== WebDriver manager ======
+2025-04-04 15:52:40,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:52:40,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-04 15:52:40,878 - INFO - Driver [/Users/alishakarma/.wdm/drivers/chromedriver/mac64/134.0.6998.165/chromedriver-mac-arm64/chromedriver] found in cache
+2025-04-04 15:52:43,754 - INFO - Opened WhatsApp Web. Waiting for login...
+2025-04-04 15:53:43,929 - WARNING - Element not found: //div[@data-testid="chat-list"]
+2025-04-04 15:53:43,931 - INFO - WhatsApp Web loaded successfully
+2025-04-04 15:53:43,957 - INFO - Found 2 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:53:46,042 - WARNING - Could not find messages in the open chat
+2025-04-04 15:53:56,365 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:53:58,574 - INFO - Last message: hellokaun
+2025-04-04 15:53:58,574 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:53:58,574 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:54:03,728 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:54:03,728 - WARNING - Could not find input with selector: //div[@title="Type a message"]
+2025-04-04 15:54:03,728 - INFO - Trying selector: //div[@data-tab="10"]
+2025-04-04 15:54:03,761 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:54:04,906 - INFO - Message sent successfully.
+2025-04-04 15:54:04,906 - INFO - Auto-reply sent successfully
+2025-04-04 15:54:18,249 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-04 15:54:23,274 - INFO - Found 1 unread messages with selector: //span[contains(@aria-label, "unread message")]
+2025-04-04 15:54:25,408 - INFO - Last message: hellokaun
+2025-04-04 15:54:25,408 - INFO - Trigger word detected in: hellokaun
+2025-04-04 15:54:25,408 - INFO - Trying selector: //div[@title="Type a message"]
+2025-04-04 15:54:30,616 - WARNING - Element not found: //div[@title="Type a message"]
+2025-04-04 15:54:30,618 - WARNING - Could not find input with selector: //div[@title="Type a message"]
+2025-04-04 15:54:30,618 - INFO - Trying selector: //div[@data-tab="10"]
+2025-04-04 15:54:30,637 - INFO - Found message input box, attempting to send message.
+2025-04-04 15:54:31,653 - INFO - Message sent successfully.
+2025-04-04 15:54:31,654 - INFO - Auto-reply sent successfully
+2025-04-04 15:54:44,975 - WARNING - Element not found: //span[@data-testid="back"]
+2025-04-06 13:02:45,586 - INFO - Bot stopped by user
+2025-04-06 13:02:45,603 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1062734d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0bf234b33dd0f9f1d9d6ca4b6b9e7172
+2025-04-06 13:02:45,605 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055b2fd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0bf234b33dd0f9f1d9d6ca4b6b9e7172
+2025-04-06 13:02:45,606 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055b3890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0bf234b33dd0f9f1d9d6ca4b6b9e7172
+2025-04-06 13:02:45,665 - INFO - WebDriver closed
